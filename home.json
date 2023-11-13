@@ -1,1 +1,17 @@
-
+[
+  {
+    "imageUri": "path/to/image1.jpg",
+    "audioUri": "path/to/audio1.mp3",
+    "name": "Item 1"
+  },
+  {
+    "imageUri": "path/to/image2.jpg",
+    "audioUri": "path/to/audio2.mp3",
+    "name": "Item 2"
+  },
+  {
+    "imageUri": "path/to/image3.jpg",
+    "audioUri": "path/to/audio3.mp3",
+    "name": "Item 3"
+  }
+]
