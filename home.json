@@ -1,4 +1,4 @@
-result:[{
+{"result":[{
     "imageUri": "path/to/image1.jpg",
     "audioUri": "path/to/audio1.mp3",
     "name": "Item 1"
@@ -13,4 +13,5 @@ result:[{
     "audioUri": "path/to/audio3.mp3",
     "name": "Item 3"
   }]
+}
 
