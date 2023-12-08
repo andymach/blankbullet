@@ -1,18 +1,20 @@
-[
-    {
-        "imageuri": "https://raw.githubusercontent.com/andymach/blankbullet/master/cor.png",
-        "videouri": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-    },
-    {
-        "imageuri": "https://raw.githubusercontent.com/andymach/blankbullet/master/cor.png",
-        "videouri": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-    },
-    {
-        "imageUri": "https://raw.githubusercontent.com/andymach/blankbullet/master/cor.png",
-        "videouri": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-    },
-    {
-        "imageUri": "https://raw.githubusercontent.com/andymach/blankbullet/master/cor.png",
-        "videouri": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-    }
-]
+{
+    "result": [
+        {
+            "imageuri": "https://raw.githubusercontent.com/andymach/blankbullet/master/cor.png",
+            "videouri": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        },
+        {
+            "imageuri": "https://raw.githubusercontent.com/andymach/blankbullet/master/cor.png",
+            "videouri": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        },
+        {
+            "imageuri": "https://raw.githubusercontent.com/andymach/blankbullet/master/cor.png",
+            "videouri": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        },
+        {
+            "imageuri": "https://raw.githubusercontent.com/andymach/blankbullet/master/cor.png",
+            "videouri": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        }
+    ]
+}
