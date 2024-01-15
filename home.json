@@ -17,6 +17,11 @@
     "imageUri": "https://raw.githubusercontent.com/andymach/blankbullet/master/pudi.png",
     "audioUri": "path/to/audio3.mp3",
     "name": "pudi"
-  }]
+  },{
+    "imageUri": "https://raw.githubusercontent.com/andymach/blankbullet/master/test.png",
+    "audioUri": "path/to/audio3.mp3",
+    "name": ""
+  }
+]
 }
 
